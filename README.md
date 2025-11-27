@@ -14,15 +14,22 @@
 
 ## 🌐 Socials:
 <p align="left">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/venkataganeshm5/" target="_blank">
     <img src="https://img.shields.io/badge/Mandalapu%20Ganesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/__ganesh__reddy_001" target="_blank">
+    <img src="https://img.shields.io/badge/__ganesh__reddy_001-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  <!-- Twitter (optional) -->
   <a href="https://twitter.com/YOUR-LINK" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+
 </p>
 
 ---
@@ -45,24 +52,36 @@
 
 ---
 
+## 💚 GeeksforGeeks Profile
+
+- **Username:** mganneshr41ov  
+- **Institution:** Lovely Professional University  
+- **Rank:** 1013  
+- **Coding Score:** 61  
+- **Problems Solved:** 38  
+- **Languages Used:** C++, Python, Java  
+- **Profile Link:** https://auth.geeksforgeeks.org/user/mganneshr41ov/
+
+---
+
 ## 🏆 GitHub Trophies:
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mganneshr41ov&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Venkatas987&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mganneshr41ov&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mganneshr41ov&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkatas987&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatas987&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mganneshr41ov&theme=highcontrast" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatas987&theme=highcontrast" height="160" />
 </p>
 
 ---
@@ -76,12 +95,13 @@
 
 ## 🚀 Top Contributed Repositories:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mganneshr41ov&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Venkatas987&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
 ## 👀 Profile Views:
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mganneshr41ov&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Venkatas987&color=blue&style=flat" />
 </p>
+
